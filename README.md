@@ -1,4 +1,4 @@
-# Clustering: Implementing-and-Validating-Clustering-Methods-on-Synthetic-and-Real-world-Data
+# Clustering Practices: Implementing-and-Validating-Clustering-Methods-on-Synthetic-and-Real-world-Data
 
 #### Overview
 Explore advanced clustering techniques tailored for Machine Learning, Data Mining, Exploratory Data Analysis, and Pattern Recognition. This project focuses on implementing diverse clustering methodologies on both synthetic and real-world datasets, followed by meticulous validation using a combination of internal and external validation techniques.
